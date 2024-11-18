@@ -1,0 +1,583 @@
+Utterances,Intent
+who are you?,smalltalk_agent_acquaintance
+all about you,smalltalk_agent_acquaintance
+what can you do,smalltalk_agent_acquaintance
+what is your personality,smalltalk_agent_acquaintance
+define yourself,smalltalk_agent_acquaintance
+what are you,smalltalk_agent_acquaintance
+say about you,smalltalk_agent_acquaintance
+introduce yourself,smalltalk_agent_acquaintance
+describe yourself,smalltalk_agent_acquaintance
+about yourself,smalltalk_agent_acquaintance
+tell me about you,smalltalk_agent_acquaintance
+tell me about yourself,smalltalk_agent_acquaintance
+I want to know more about you,smalltalk_agent_acquaintance
+I want to know you better,smalltalk_agent_acquaintance
+talk some stuff about yourself,smalltalk_agent_acquaintance
+tell me some stuff about you,smalltalk_agent_acquaintance
+talk about yourself,smalltalk_agent_acquaintance
+why are you here,smalltalk_agent_acquaintance
+tell me about your personality,smalltalk_agent_acquaintance
+who are you,smalltalk_agent_acquaintance
+why aren't you talking to me,smalltalk_agent_talk_to_me
+do you want to chat with me,smalltalk_agent_talk_to_me
+will you talk to me,smalltalk_agent_talk_to_me
+talk to me,smalltalk_agent_talk_to_me
+are you going to talk to me,smalltalk_agent_talk_to_me
+are you talking to me,smalltalk_agent_talk_to_me
+can you chat with me,smalltalk_agent_talk_to_me
+can you speak with me,smalltalk_agent_talk_to_me
+can you talk to me,smalltalk_agent_talk_to_me
+can you talk with me,smalltalk_agent_talk_to_me
+say,smalltalk_agent_talk_to_me
+talk,smalltalk_agent_talk_to_me
+chat with me,smalltalk_agent_talk_to_me
+just chat with me,smalltalk_agent_talk_to_me
+speak to me,smalltalk_agent_talk_to_me
+speak with me,smalltalk_agent_talk_to_me
+talk with me,smalltalk_agent_talk_to_me
+why don't you talk to me,smalltalk_agent_talk_to_me
+you can talk to me,smalltalk_agent_talk_to_me
+pretty bad,smalltalk_appraisal_bad
+not good enough,smalltalk_appraisal_bad
+that was lame,smalltalk_appraisal_bad
+that was terrible,smalltalk_appraisal_bad
+it is bad,smalltalk_appraisal_bad
+that's bad,smalltalk_appraisal_bad
+this is bad,smalltalk_appraisal_bad
+not good,smalltalk_appraisal_bad
+I'm afraid it's bad,smalltalk_appraisal_bad
+no it's bad,smalltalk_appraisal_bad
+that was awful,smalltalk_appraisal_bad
+bad,smalltalk_appraisal_bad
+so bad,smalltalk_appraisal_bad
+this is too bad,smalltalk_appraisal_bad
+terrible,smalltalk_appraisal_bad
+horrible,smalltalk_appraisal_bad
+horrific,smalltalk_appraisal_bad
+abysmal,smalltalk_appraisal_bad
+it's bad,smalltalk_appraisal_bad
+no good,smalltalk_appraisal_bad
+that was bad,smalltalk_appraisal_bad
+that was horrible,smalltalk_appraisal_bad
+that's lame,smalltalk_appraisal_bad
+that's not good,smalltalk_appraisal_bad
+that's terrible,smalltalk_appraisal_bad
+that's too bad,smalltalk_appraisal_bad
+this is not good,smalltalk_appraisal_bad
+too bad,smalltalk_appraisal_bad
+very bad,smalltalk_appraisal_bad
+bad girl,smalltalk_appraisal_bad
+it's not good,smalltalk_appraisal_bad
+not so good,smalltalk_appraisal_bad
+it's very bad,smalltalk_appraisal_bad
+it's too bad,smalltalk_appraisal_bad
+that's not good enough,smalltalk_appraisal_bad
+well too bad,smalltalk_appraisal_bad
+bad very bad,smalltalk_appraisal_bad
+it's so bad,smalltalk_appraisal_bad
+really bad,smalltalk_appraisal_bad
+it's really bad,smalltalk_appraisal_bad
+bad idea,smalltalk_appraisal_bad
+that is bad,smalltalk_appraisal_bad
+that was not good,smalltalk_appraisal_bad
+it's not so good,smalltalk_appraisal_bad
+not a good one,smalltalk_appraisal_bad
+oh that's not good,smalltalk_appraisal_bad
+not too good,smalltalk_appraisal_bad
+so lame,smalltalk_appraisal_bad
+that's really bad,smalltalk_appraisal_bad
+it is too bad,smalltalk_appraisal_bad
+bad really bad,smalltalk_appraisal_bad
+so cool,smalltalk_appraisal_good
+cool,smalltalk_appraisal_good
+that is good,smalltalk_appraisal_good
+glad to hear that,smalltalk_appraisal_good
+that's very nice of you,smalltalk_appraisal_good
+terrific,smalltalk_appraisal_good
+it's amazing,smalltalk_appraisal_good
+that's awesome,smalltalk_appraisal_good
+perfect,smalltalk_appraisal_good
+excellent,smalltalk_appraisal_good
+that's great,smalltalk_appraisal_good
+it's good,smalltalk_appraisal_good
+it's great,smalltalk_appraisal_good
+fine,smalltalk_appraisal_good
+good,smalltalk_appraisal_good
+nice,smalltalk_appraisal_good
+that's fine,smalltalk_appraisal_good
+very good,smalltalk_appraisal_good
+amazing,smalltalk_appraisal_good
+fantastic,smalltalk_appraisal_good
+great,smalltalk_appraisal_good
+good very good,smalltalk_appraisal_good
+that's very good,smalltalk_appraisal_good
+really good,smalltalk_appraisal_good
+it is fine,smalltalk_appraisal_good
+it is good,smalltalk_appraisal_good
+it's perfect,smalltalk_appraisal_good
+much better,smalltalk_appraisal_good
+not bad,smalltalk_appraisal_good
+not too bad,smalltalk_appraisal_good
+it's very good,smalltalk_appraisal_good
+marvelous,smalltalk_appraisal_good
+that's nice,smalltalk_appraisal_good
+pleasant,smalltalk_appraisal_good
+pretty good,smalltalk_appraisal_good
+really nice,smalltalk_appraisal_good
+splendid,smalltalk_appraisal_good
+straight,smalltalk_appraisal_good
+super,smalltalk_appraisal_good
+super fantastic,smalltalk_appraisal_good
+sweet,smalltalk_appraisal_good
+really well,smalltalk_appraisal_good
+very well,smalltalk_appraisal_good
+that is awesome,smalltalk_appraisal_good
+that is nice,smalltalk_appraisal_good
+that is wonderful,smalltalk_appraisal_good
+that was amazing,smalltalk_appraisal_good
+that was awesome,smalltalk_appraisal_good
+that was cute,smalltalk_appraisal_good
+that was pretty good,smalltalk_appraisal_good
+that was very good,smalltalk_appraisal_good
+that's a good idea,smalltalk_appraisal_good
+that's a good thing,smalltalk_appraisal_good
+that's amazing,smalltalk_appraisal_good
+that's awesome thank you,smalltalk_appraisal_good
+that's better,smalltalk_appraisal_good
+that's cute,smalltalk_appraisal_good
+that's fantastic,smalltalk_appraisal_good
+that's much better,smalltalk_appraisal_good
+that's nice of you,smalltalk_appraisal_good
+that's not bad,smalltalk_appraisal_good
+that's perfect,smalltalk_appraisal_good
+that's pretty good,smalltalk_appraisal_good
+that's really good,smalltalk_appraisal_good
+that's really nice,smalltalk_appraisal_good
+that's sweet of you,smalltalk_appraisal_good
+that's very nice,smalltalk_appraisal_good
+that's wonderful,smalltalk_appraisal_good
+this is awesome,smalltalk_appraisal_good
+this is good,smalltalk_appraisal_good
+this is great,smalltalk_appraisal_good
+very nice,smalltalk_appraisal_good
+very then,smalltalk_appraisal_good
+wonderful,smalltalk_appraisal_good
+I'm glad to hear that,smalltalk_appraisal_good
+ok good,smalltalk_appraisal_good
+good for you,smalltalk_appraisal_good
+good to know,smalltalk_appraisal_good
+glad to hear it,smalltalk_appraisal_good
+so good,smalltalk_appraisal_good
+so sweet of you,smalltalk_appraisal_good
+it was good,smalltalk_appraisal_good
+oh well,smalltalk_appraisal_good
+good thing,smalltalk_appraisal_good
+that was good,smalltalk_appraisal_good
+it's awesome,smalltalk_appraisal_good
+okay good,smalltalk_appraisal_good
+no it's okay,smalltalk_appraisal_good
+you helped a lot thank you,smalltalk_appraisal_thank_you
+appreciate your help,smalltalk_appraisal_thank_you
+cheers,smalltalk_appraisal_thank_you
+thank you,smalltalk_appraisal_thank_you
+thanks,smalltalk_appraisal_thank_you
+thanks a lot,smalltalk_appraisal_thank_you
+terrific thank you,smalltalk_appraisal_thank_you
+great thank you,smalltalk_appraisal_thank_you
+thanks so much,smalltalk_appraisal_thank_you
+thank you so much,smalltalk_appraisal_thank_you
+thanks for your help,smalltalk_appraisal_thank_you
+thank you for your help,smalltalk_appraisal_thank_you
+nice thank you,smalltalk_appraisal_thank_you
+I appreciate it,smalltalk_appraisal_thank_you
+I thank you,smalltalk_appraisal_thank_you
+thank you that will be all,smalltalk_appraisal_thank_you
+thanks buddy,smalltalk_appraisal_thank_you
+thanks love,smalltalk_appraisal_thank_you
+thank you my friend,smalltalk_appraisal_thank_you
+well thanks,smalltalk_appraisal_thank_you
+very good thank you,smalltalk_appraisal_thank_you
+good thanks,smalltalk_appraisal_thank_you
+thanks again,smalltalk_appraisal_thank_you
+thank you again,smalltalk_appraisal_thank_you
+all thank you,smalltalk_appraisal_thank_you
+alright thank you,smalltalk_appraisal_thank_you
+alright thanks,smalltalk_appraisal_thank_you
+no thank you that's all,smalltalk_appraisal_thank_you
+perfect thank you,smalltalk_appraisal_thank_you
+so nice of you,smalltalk_appraisal_thank_you
+well thank you,smalltalk_appraisal_thank_you
+thnx,smalltalk_appraisal_thank_you
+thanx,smalltalk_appraisal_thank_you
+that's my pleasure,smalltalk_appraisal_welcome
+my pleasure,smalltalk_appraisal_welcome
+anytime,smalltalk_appraisal_welcome
+welcome,smalltalk_appraisal_welcome
+you're welcome,smalltalk_appraisal_welcome
+sure welcome,smalltalk_appraisal_welcome
+welcome here,smalltalk_appraisal_welcome
+you're so welcome,smalltalk_appraisal_welcome
+anything you want,smalltalk_appraisal_welcome
+okay see you later,smalltalk_greetings_bye
+hope to see you later,smalltalk_greetings_bye
+bye for now,smalltalk_greetings_bye
+till next time,smalltalk_greetings_bye
+I must go,smalltalk_greetings_bye
+bye,smalltalk_greetings_bye
+goodbye,smalltalk_greetings_bye
+see you,smalltalk_greetings_bye
+see you soon,smalltalk_greetings_bye
+bye-bye,smalltalk_greetings_bye
+good bye,smalltalk_greetings_bye
+bye bye see you,smalltalk_greetings_bye
+bye bye see you soon,smalltalk_greetings_bye
+bye bye take care,smalltalk_greetings_bye
+I said bye,smalltalk_greetings_bye
+never mind bye,smalltalk_greetings_bye
+now bye,smalltalk_greetings_bye
+that's all goodbye,smalltalk_greetings_bye
+that's it goodbye,smalltalk_greetings_bye
+leave me alone,smalltalk_greetings_bye
+go to bed,smalltalk_greetings_bye
+goodbye for now,smalltalk_greetings_bye
+talk to you later,smalltalk_greetings_bye
+you can go now,smalltalk_greetings_bye
+get lost,smalltalk_greetings_bye
+goodbye see you later,smalltalk_greetings_bye
+alright bye,smalltalk_greetings_bye
+see ya,smalltalk_greetings_bye
+thanks bye bye,smalltalk_greetings_bye
+okay bye,smalltalk_greetings_bye
+okay thank you bye,smalltalk_greetings_bye
+see you tomorrow,smalltalk_greetings_bye
+ok bye,smalltalk_greetings_bye
+good evening,smalltalk_greetings_goodevening
+good evening to you,smalltalk_greetings_goodevening
+hey good evening,smalltalk_greetings_goodevening
+hello good evening,smalltalk_greetings_goodevening
+evening,smalltalk_greetings_goodevening
+good evening there,smalltalk_greetings_goodevening
+good morning,smalltalk_greetings_goodmorning
+good morning to you,smalltalk_greetings_goodmorning
+hello good morning,smalltalk_greetings_goodmorning
+have a nice morning,smalltalk_greetings_goodmorning
+have a great morning,smalltalk_greetings_goodmorning
+morning,smalltalk_greetings_goodmorning
+good morning there,smalltalk_greetings_goodmorning
+top of the morning to you,smalltalk_greetings_goodmorning
+a good morning,smalltalk_greetings_goodmorning
+hi good morning,smalltalk_greetings_goodmorning
+and a good morning to you,smalltalk_greetings_goodmorning
+good morning too,smalltalk_greetings_goodmorning
+sweet dreams,smalltalk_greetings_goodnight
+good night,smalltalk_greetings_goodnight
+have a good night,smalltalk_greetings_goodnight
+good night to you,smalltalk_greetings_goodnight
+thank you good night,smalltalk_greetings_goodnight
+bye good night,smalltalk_greetings_goodnight
+good night bye,smalltalk_greetings_goodnight
+good good night,smalltalk_greetings_goodnight
+good night for now,smalltalk_greetings_goodnight
+goodnight,smalltalk_greetings_goodnight
+night,smalltalk_greetings_goodnight
+thanks goodnight,smalltalk_greetings_goodnight
+good night see you tomorrow,smalltalk_greetings_goodnight
+alright goodnight,smalltalk_greetings_goodnight
+good tonight,smalltalk_greetings_goodnight
+okay have a good night,smalltalk_greetings_goodnight
+long time no see,smalltalk_greetings_hello
+hello,smalltalk_greetings_hello
+hi,smalltalk_greetings_hello
+howdy,smalltalk_greetings_hello
+hey there,smalltalk_greetings_hello
+hey,smalltalk_greetings_hello
+greetings,smalltalk_greetings_hello
+I greet you,smalltalk_greetings_hello
+hi there,smalltalk_greetings_hello
+hello there,smalltalk_greetings_hello
+lovely day isn't it,smalltalk_greetings_hello
+hello again,smalltalk_greetings_hello
+just going to say hi,smalltalk_greetings_hello
+a good day,smalltalk_greetings_hello
+afternoon,smalltalk_greetings_hello
+hello hi,smalltalk_greetings_hello
+heya,smalltalk_greetings_hello
+how is your morning so far,smalltalk_greetings_how_are_you
+how are you getting on,smalltalk_greetings_how_are_you
+how's your day going,smalltalk_greetings_how_are_you
+how are you,smalltalk_greetings_how_are_you
+is everything all right,smalltalk_greetings_how_are_you
+how are you doing,smalltalk_greetings_how_are_you
+how are the things going,smalltalk_greetings_how_are_you
+are you alright,smalltalk_greetings_how_are_you
+are you okay,smalltalk_greetings_how_are_you
+how are you feeling,smalltalk_greetings_how_are_you
+how are you going,smalltalk_greetings_how_are_you
+is everything okay,smalltalk_greetings_how_are_you
+how are you today,smalltalk_greetings_how_are_you
+how do you do,smalltalk_greetings_how_are_you
+how do you feel,smalltalk_greetings_how_are_you
+how have you been,smalltalk_greetings_how_are_you
+how is it,smalltalk_greetings_how_are_you
+how is it going,smalltalk_greetings_how_are_you
+how is your day,smalltalk_greetings_how_are_you
+how is your day going,smalltalk_greetings_how_are_you
+how is your evening,smalltalk_greetings_how_are_you
+how was your day,smalltalk_greetings_how_are_you
+are you having a good day,smalltalk_greetings_how_are_you
+hope your day is going well,smalltalk_greetings_how_are_you
+hope you re having a pleasant evening,smalltalk_greetings_how_are_you
+how's life,smalltalk_greetings_how_are_you
+I'm fine and you,smalltalk_greetings_how_are_you
+how is your life,smalltalk_greetings_how_are_you
+how has your day been,smalltalk_greetings_how_are_you
+how is your morning going,smalltalk_greetings_how_are_you
+how has your day been going,smalltalk_greetings_how_are_you
+how about you,smalltalk_greetings_how_are_you
+how is your day being,smalltalk_greetings_how_are_you
+how is your day going on,smalltalk_greetings_how_are_you
+how your day is going,smalltalk_greetings_how_are_you
+what was your day like,smalltalk_greetings_how_are_you
+what about your day,smalltalk_greetings_how_are_you
+how's your day,smalltalk_greetings_how_are_you
+how are you doing this morning,smalltalk_greetings_how_are_you
+nice to meet you,smalltalk_greetings_nice_to_meet_you
+it was nice meeting you,smalltalk_greetings_nice_to_meet_you
+it was very nice to meet you,smalltalk_greetings_nice_to_meet_you
+good to know each other,smalltalk_greetings_nice_to_meet_you
+glad to meet you,smalltalk_greetings_nice_to_meet_you
+nice meeting you,smalltalk_greetings_nice_to_meet_you
+nice to meet you too,smalltalk_greetings_nice_to_meet_you
+pleased to meet you,smalltalk_greetings_nice_to_meet_you
+pleasure to meet you,smalltalk_greetings_nice_to_meet_you
+pleasure to meet you too,smalltalk_greetings_nice_to_meet_you
+it's nice to see you,smalltalk_greetings_nice_to_see_you
+lovely to see you,smalltalk_greetings_nice_to_see_you
+I'm glad to see you,smalltalk_greetings_nice_to_see_you
+great to see you,smalltalk_greetings_nice_to_see_you
+it's good to see you,smalltalk_greetings_nice_to_see_you
+glad to see you,smalltalk_greetings_nice_to_see_you
+how good it is to see you,smalltalk_greetings_nice_to_see_you
+always a pleasure to see you,smalltalk_greetings_nice_to_see_you
+nice to see you,smalltalk_greetings_nice_to_see_you
+good to see you,smalltalk_greetings_nice_to_see_you
+great to see you again,smalltalk_greetings_nice_to_see_you
+great to see you too,smalltalk_greetings_nice_to_see_you
+I am glad to see you again,smalltalk_greetings_nice_to_see_you
+nice to see you again,smalltalk_greetings_nice_to_see_you
+glad to see you too,smalltalk_greetings_nice_to_see_you
+good to see you again,smalltalk_greetings_nice_to_see_you
+it's good to see you too,smalltalk_greetings_nice_to_see_you
+it's been so nice to talk to you,smalltalk_greetings_nice_to_talk_to_you
+it's been a pleasure talking to you,smalltalk_greetings_nice_to_talk_to_you
+nice to talk to you,smalltalk_greetings_nice_to_talk_to_you
+it's nice to talk to you,smalltalk_greetings_nice_to_talk_to_you
+nice talking to you,smalltalk_greetings_nice_to_talk_to_you
+it is nice talking to you,smalltalk_greetings_nice_to_talk_to_you
+how nice it is to talk to you,smalltalk_greetings_nice_to_talk_to_you
+let's go to bed,smalltalk_user_going_to_bed
+I'd like to go to bed,smalltalk_user_going_to_bed
+is it time for bed yet,smalltalk_user_going_to_bed
+it's time to go to bed,smalltalk_user_going_to_bed
+time for us to go to bed,smalltalk_user_going_to_bed
+I'm going to bed,smalltalk_user_going_to_bed
+I'm a little tired and I want to go to bed,smalltalk_user_going_to_bed
+it's bed time,smalltalk_user_going_to_bed
+going to bed now,smalltalk_user_going_to_bed
+I am sleepy,smalltalk_user_sleepy
+I want to sleep,smalltalk_user_sleepy
+I'm falling asleep,smalltalk_user_sleepy
+I'm falling asleep on my feet,smalltalk_user_sleepy
+I'm sleeping,smalltalk_user_sleepy
+who is you?,smalltalk_agent_acquaintance
+tell me your personality?,smalltalk_agent_acquaintance
+what's your personality?,smalltalk_agent_acquaintance
+what is your personality?,smalltalk_agent_acquaintance
+what are you and what are you doing?,smalltalk_agent_acquaintance
+what are you?,smalltalk_agent_acquaintance
+tell me something about yourself,smalltalk_agent_acquaintance
+i'd like to know more about you,smalltalk_agent_acquaintance
+i want to know more about you,smalltalk_agent_acquaintance
+i want to get to know you better,smalltalk_agent_acquaintance
+i want to know you better,smalltalk_agent_acquaintance
+tell me a little bit about yourself,smalltalk_agent_acquaintance
+tell me the information about you,smalltalk_agent_acquaintance
+tell me some information about you,smalltalk_agent_acquaintance
+i want to know something about you,smalltalk_agent_acquaintance
+tell me a little about you,smalltalk_agent_acquaintance
+tell me some things about you,smalltalk_agent_acquaintance
+tell me something about you,smalltalk_agent_acquaintance
+talk about your personality,smalltalk_agent_acquaintance
+why are you here?,smalltalk_agent_acquaintance
+give me more about your personality,smalltalk_agent_acquaintance
+why don't you speak with me?,smalltalk_agent_talk_to_me
+why don't you just talk to me?,smalltalk_agent_talk_to_me
+why don't you talk to me?,smalltalk_agent_talk_to_me
+would you like to chat with me?,smalltalk_agent_talk_to_me
+do you want to talk with me?,smalltalk_agent_talk_to_me
+do you want to chat to me?,smalltalk_agent_talk_to_me
+you want to chat with me?,smalltalk_agent_talk_to_me
+do you want to chat with me?,smalltalk_agent_talk_to_me
+' do you want to chat with me?,smalltalk_agent_talk_to_me
+will you talk to me?,smalltalk_agent_talk_to_me
+please tell me,smalltalk_agent_talk_to_me
+are you going to talk to me?,smalltalk_agent_talk_to_me
+are you talking to me?,smalltalk_agent_talk_to_me
+can you talk to me?,smalltalk_agent_talk_to_me
+can you chat with me?,smalltalk_agent_talk_to_me
+can you speak to me?,smalltalk_agent_talk_to_me
+can you speak with me?,smalltalk_agent_talk_to_me
+is it possible to talk to me?,smalltalk_agent_talk_to_me
+can you talk with me?,smalltalk_agent_talk_to_me
+chat to me,smalltalk_agent_talk_to_me
+just talk to me,smalltalk_agent_talk_to_me
+have a chat with me,smalltalk_agent_talk_to_me
+please speak to me,smalltalk_agent_talk_to_me
+let me know,smalltalk_agent_talk_to_me
+it was stupid,smalltalk_appraisal_bad
+it's a bad thing,smalltalk_appraisal_bad
+no it's not good,smalltalk_appraisal_bad
+nothing good,smalltalk_appraisal_bad
+it's just lame,smalltalk_appraisal_bad
+i don't think it's an okay idea,smalltalk_appraisal_bad
+that's awful,smalltalk_appraisal_bad
+that's horrible,smalltalk_appraisal_bad
+that's a bad thing,smalltalk_appraisal_bad
+this is not a good thing,smalltalk_appraisal_bad
+it's not a good thing,smalltalk_appraisal_bad
+it's pretty bad,smalltalk_appraisal_bad
+it's a shame,smalltalk_appraisal_bad
+the situation is terrible,smalltalk_appraisal_bad
+so it wasn't right,smalltalk_appraisal_bad
+it's not great,smalltalk_appraisal_bad
+happy to hear that,smalltalk_appraisal_good
+it's all right,smalltalk_appraisal_good
+it's okay,smalltalk_appraisal_good
+that's a wonderful situation,smalltalk_appraisal_good
+it's not a bad thing,smalltalk_appraisal_good
+this is very good,smalltalk_appraisal_good
+i'm glad to hear that,smalltalk_appraisal_good
+happy to hear,smalltalk_appraisal_good
+glad to hear,smalltalk_appraisal_good
+it's wonderful,smalltalk_appraisal_good
+i appreciate it,smalltalk_appraisal_thank_you
+thanks for it,smalltalk_appraisal_thank_you
+thank you very much,smalltalk_appraisal_thank_you
+thanks for your assistance,smalltalk_appraisal_thank_you
+thanks for helping,smalltalk_appraisal_thank_you
+thanks for the aid,smalltalk_appraisal_thank_you
+thanks for the help,smalltalk_appraisal_thank_you
+thank you for your assistance,smalltalk_appraisal_thank_you
+thank you for helping,smalltalk_appraisal_thank_you
+i'm grateful,smalltalk_appraisal_thank_you
+thank you it's going to be all right,smalltalk_appraisal_thank_you
+so thank you,smalltalk_appraisal_thank_you
+i appreciate your continued support,smalltalk_appraisal_thank_you
+again i really appreciate you,smalltalk_appraisal_thank_you
+all right - thank you,smalltalk_appraisal_thank_you
+all right thanks,smalltalk_appraisal_thank_you
+that's nice of you,smalltalk_appraisal_thank_you
+thanks for that,smalltalk_appraisal_thank_you
+i'm pleased,smalltalk_appraisal_welcome
+so welcome,smalltalk_appraisal_welcome
+whatever you want,smalltalk_appraisal_welcome
+till the next time,smalltalk_greetings_bye
+i have to go,smalltalk_greetings_bye
+never mind,smalltalk_greetings_bye
+so goodbye,smalltalk_greetings_bye
+that's all for goodbye,smalltalk_greetings_bye
+keep me alone,smalltalk_greetings_bye
+let me be alone,smalltalk_greetings_bye
+just leave me alone,smalltalk_greetings_bye
+all right bye,smalltalk_greetings_bye
+ok good bye,smalltalk_greetings_bye
+i hope you have a good night,smalltalk_greetings_goodevening
+tonight,smalltalk_greetings_goodevening
+the morning,smalltalk_greetings_goodmorning
+goodbye goodnight,smalltalk_greetings_goodnight
+goodbye good night,smalltalk_greetings_goodnight
+good night goodbye,smalltalk_greetings_goodnight
+all right good night,smalltalk_greetings_goodnight
+all right goodnight,smalltalk_greetings_goodnight
+all right have a good night,smalltalk_greetings_goodnight
+please sleep well,smalltalk_greetings_goodnight
+nice day don't you think?,smalltalk_greetings_hello
+a great day isn't it?,smalltalk_greetings_hello
+it's a lovely day doesn't it?,smalltalk_greetings_hello
+how's your morning going?,smalltalk_greetings_how_are_you
+how is your morning so far?,smalltalk_greetings_how_are_you
+what's your progress?,smalltalk_greetings_how_are_you
+how's this going?,smalltalk_greetings_how_are_you
+how're you doing?,smalltalk_greetings_how_are_you
+how are you?,smalltalk_greetings_how_are_you
+how is everything?,smalltalk_greetings_how_are_you
+how are things going?,smalltalk_greetings_how_are_you
+how are the things going?,smalltalk_greetings_how_are_you
+are you okay?,smalltalk_greetings_how_are_you
+are you fine?,smalltalk_greetings_how_are_you
+how's the mood?,smalltalk_greetings_how_are_you
+how's your mood?,smalltalk_greetings_how_are_you
+what are you feeling like?,smalltalk_greetings_how_are_you
+how are you today?,smalltalk_greetings_how_are_you
+how do you do this?,smalltalk_greetings_how_are_you
+how do you do it?,smalltalk_greetings_how_are_you
+how's the situation?,smalltalk_greetings_how_are_you
+how's it?,smalltalk_greetings_how_are_you
+how it's going?,smalltalk_greetings_how_are_you
+how is this going?,smalltalk_greetings_how_are_you
+how's it going?,smalltalk_greetings_how_are_you
+how's your night?,smalltalk_greetings_how_are_you
+how's your evening?,smalltalk_greetings_how_are_you
+how did the day go?,smalltalk_greetings_how_are_you
+how was your day?,smalltalk_greetings_how_are_you
+are you having a good day?,smalltalk_greetings_how_are_you
+hope your day goes well,smalltalk_greetings_how_are_you
+how's the life?,smalltalk_greetings_how_are_you
+how's life?,smalltalk_greetings_how_are_you
+i'm fine and you're fine,smalltalk_greetings_how_are_you
+how's your life?,smalltalk_greetings_how_are_you
+how is your life?,smalltalk_greetings_how_are_you
+how's the day going?,smalltalk_greetings_how_are_you
+how's your day going?,smalltalk_greetings_how_are_you
+how is your morning going?,smalltalk_greetings_how_are_you
+what's your day like?,smalltalk_greetings_how_are_you
+how's your day gone?,smalltalk_greetings_how_are_you
+what about you?,smalltalk_greetings_how_are_you
+how about you?,smalltalk_greetings_how_are_you
+how's your day?,smalltalk_greetings_how_are_you
+nice to see you,smalltalk_greetings_nice_to_meet_you
+i'm glad to meet you,smalltalk_greetings_nice_to_meet_you
+nice to see you too,smalltalk_greetings_nice_to_meet_you
+happy to see you,smalltalk_greetings_nice_to_meet_you
+happy to meet you,smalltalk_greetings_nice_to_meet_you
+i'm happy to see you,smalltalk_greetings_nice_to_meet_you
+it's an honour to meet you,smalltalk_greetings_nice_to_meet_you
+wonderful to meet you,smalltalk_greetings_nice_to_see_you
+happy to see you,smalltalk_greetings_nice_to_see_you
+what a pleasure to meet you,smalltalk_greetings_nice_to_see_you
+how nice to see you,smalltalk_greetings_nice_to_see_you
+glad to see you again,smalltalk_greetings_nice_to_see_you
+it's nice talking to you,smalltalk_greetings_nice_to_talk_to_you
+it was nice to talk with you,smalltalk_greetings_nice_to_talk_to_you
+it's really nice to talk to you,smalltalk_greetings_nice_to_talk_to_you
+i'm happy to talk to you,smalltalk_greetings_nice_to_talk_to_you
+what a pleasure to chat with you,smalltalk_greetings_nice_to_talk_to_you
+how nice to talk to you,smalltalk_greetings_nice_to_talk_to_you
+i want to go to sleep,smalltalk_user_going_to_bed
+i want to go to bed,smalltalk_user_going_to_bed
+i'd like to go to sleep,smalltalk_user_going_to_bed
+i'd like to go to bed,smalltalk_user_going_to_bed
+the time to go to bed,smalltalk_user_going_to_bed
+i'm going to bed,smalltalk_user_going_to_bed
+i'm tired and i want to go to bed,smalltalk_user_going_to_bed
+i'm a little tired i want to go to bed,smalltalk_user_going_to_bed
+i'm a little tired and i want to go to bed,smalltalk_user_going_to_bed
+go to bed,smalltalk_user_going_to_bed
+i'm sleepy,smalltalk_user_sleepy
+i want to sleep,smalltalk_user_sleepy
+i am going to sleep,smalltalk_user_sleepy
+i'm trying to fall asleep,smalltalk_user_sleepy
+i'm falling asleep,smalltalk_user_sleepy
+i sleep,smalltalk_user_sleepy
+i'm sleeping,smalltalk_user_sleepy
